@@ -1,0 +1,320 @@
+[
+    {
+        "id": "1",
+        "titulo": "ESTRELLAS AFA",
+        "categoria": {
+            "nombre": "Selección Argentina",
+            "id": "argentina"
+        },
+        "imagen": "assets/img/ESTRELLAS.jpg"
+    },
+    {
+        "id": "2",
+        "titulo": "DIEGO-10",
+        "categoria": {
+            "nombre": "Selección Argentina",
+            "id": "argentina"
+        },
+        "imagen": "assets/img/DIEGO-10.jpg"
+    },
+    {
+        "id": "3",
+        "titulo": "DIOS-1",
+        "categoria": {
+            "nombre": "Selección Argentina",
+            "id": "argentina"
+        },
+        "imagen": "assets/img/DIOS.jpg"
+    },
+    {
+        "id": "4",
+        "titulo": "Messi-1",
+        "categoria": {
+            "nombre": "Selección Argentina",
+            "id": "argentina"
+        },
+        "imagen": "assets/img/Messi-1.jpg"
+    },
+    {
+        "id": "5",
+        "titulo": "mapa-argentina-1",
+        "categoria": {
+            "nombre": "Selección Argentina",
+            "id": "argentina"
+        },
+        "imagen": "assets/img/mapa-argentina.jpg"
+    },
+    {
+        "id": "6",
+        "titulo": "Labio",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/LABIOS.jpg"
+    },
+    {
+        "id": "7",
+        "titulo": "Arco iris",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/arco iris.jpg"
+    },
+    {
+        "id": "8",
+        "titulo": "Lisa Simpsons 1",
+        "categoria": {
+            "nombre": "Los Simpsons",
+            "id": "simpsons"
+        },
+        "imagen": "assets/img/lisa1.jpg"
+    },
+    {
+        "id": "9",
+        "titulo": "dibu martinez 01",
+        "categoria": {
+            "nombre": "Selección Argentina",
+            "id": "argentina"
+        },
+        "imagen": "assets/img/dibu_martinez.jpg"
+    },
+    {
+        "id": "10",
+        "titulo": "Fernet",
+        "categoria": {
+            "nombre": "Marcas",
+            "id": "marcas"
+        },
+        "imagen": "assets/img/botella_fernet.png"
+    },
+    {
+        "id": "11",
+        "titulo": "HOMERO-1",
+        "categoria": {
+            "nombre": "Los Simpsons",
+            "id": "simpsons"
+        },
+        "imagen": "assets/img/HOMERO 1.jpg"
+    },
+    {
+        "id": "12",
+        "titulo": "Planetario-1",
+        "categoria": {
+            "nombre": "Los Simpsons",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/Planetario1.jpg"
+    },
+    {
+        "id": "13",
+        "titulo": "ESCUDO AFA",
+        "categoria": {
+            "nombre": "Selección Argentina",
+            "id": "argentina"
+        },
+        "imagen": "assets/img/ESCUDO AFA.jpg"
+    },
+    {
+        "id": "14",
+        "titulo": "PATAGONIA-40",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/PATAGONIA-40.jpg"
+    },
+    {
+        "id": "15",
+        "titulo": "MARADONA-DIOS",
+        "categoria": {
+            "nombre": "Selección Argentina",
+            "id": "argentina"
+        },
+        "imagen": "assets/img/MARADONA-DIOS.jpg"
+    },
+    {
+        "id": "16",
+        "titulo": "LACOSTE",
+        "categoria": {
+            "nombre": "Marcas",
+            "id": "marcas"
+        },
+        "imagen": "assets/img/LACOSTE.jpg"
+    },
+    {
+        "id": "17",
+        "titulo": "SURF-MAR-CAMIONETA",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/SURF-MAR-CAMIONETA.jpg"
+    },
+    {
+        "id": "18",
+        "titulo": "LOVE",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/LOVE.jpg"
+    },
+    {
+        "id": "19",
+        "titulo": "DIMARIA-1",
+        "categoria": {
+            "nombre": "Selección Argentina",
+            "id": "argentina"
+        },
+        "imagen": "assets/img/DIMARIA-1.jpg"
+    },
+    {
+        "id": "20",
+        "titulo": "GOOD-VIDES",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/GOOD-VIDES.jpg"
+    },
+    {
+        "id": "21",
+        "titulo": "STITCH",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/STITCH.jpg"
+    },
+    {
+        "id": "22",
+        "titulo": "CHAMPION",
+        "categoria": {
+            "nombre": "Marcas",
+            "id": "marcas"
+        },
+        "imagen": "assets/img/CHAMPION.jpg"
+    },
+    {
+        "id": "23",
+        "titulo": "VENTANA-AVION",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/VENTANA-AVION.jpg"
+    },
+    {
+        "id": "24",
+        "titulo": "ESCUDO-CHAMPION",
+        "categoria": {
+            "nombre": "Marcas",
+            "id": "marcas"
+        },
+        "imagen": "assets/img/ESCUDO-CHAMPION.jpg"
+    },
+    {
+        "id": "25",
+        "titulo": "VALIJA",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/VALIJA.jpg"
+    },
+    {
+        "id": "26",
+        "titulo": "MARADONA",
+        "categoria": {
+            "nombre": "Selección Argentina",
+            "id": "argentina"
+        },
+        "imagen": "assets/img/MARADONA.jpg"
+    },
+    {
+        "id": "27",
+        "titulo": "COCA-COLA",
+        "categoria": {
+            "nombre": "Marcas",
+            "id": "marcas"
+        },
+        "imagen": "assets/img/COCA-COLA.jpg"
+    },
+    {
+        "id": "28",
+        "titulo": "RAYO-ROSA",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/RAYO-ROSA.jpg"
+    },
+    {
+        "id": "29",
+        "titulo": "ESCUDO-AGUA",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/ESCUDO-AGUA.jpg"
+    },
+    {
+        "id": "30",
+        "titulo": "AVION",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/AVION.jpg"
+    },
+    {
+        "id": "31",
+        "titulo": "FINE-ART",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/FINE-ART.jpg"
+    },
+    {
+        "id": "32",
+        "titulo": "FURGONETA-VIAJAR",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/FURGONETA-VIAJAR.jpg"
+    },
+    {
+        "id": "33",
+        "titulo": "RAYO-PUNTITOS",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/RAYO-PUNTITOS.jpg"
+    },
+    {
+        "id": "34",
+        "titulo": "CAMARA-ROSA",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "assets/img/CAMARA-ROSA.jpg"
+    },
+    {
+        "id": "34",
+        "titulo": "DRIVE",
+        "categoria": {
+            "nombre": "Nuevos ingresos",
+            "id": "ingresos"
+        },
+        "imagen": "https://data.terabox.com/thumbnail/c4e326ebd77ebc513a1b26a95c175355?fid=4398612126843-250528-804243899793141&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-lbORzQlQwW3YL%2flBjnmx%2bi3UJmY%3d&expires=8h&chkbd=0&chkv=0&dp-logid=8660853269667775055&dp-callid=0&time=1710529200&size=c1536_u864&quality=90&vuk=4398612126843&ft=image&autopolicy=1"
+    }
+
+
+
+]
